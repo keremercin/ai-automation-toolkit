@@ -17,6 +17,8 @@ This toolkit provides clean, reusable JSON contracts for common automation use-c
 
 ![Automation Showcase](docs/assets/automation_showcase.png)
 
+![Workflow Showcase GIF](docs/assets/product_showcase.gif)
+
 ---
 
 ## Endpoints
