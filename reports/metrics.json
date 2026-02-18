@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "project": "ai-automation-toolkit",
+  "model_version": "0.5.0",
+  "metrics": {
+    "contract_tests": 7,
+    "validation_error_contract": true
+  }
+}
